@@ -21,3 +21,9 @@ The data contains the different attributes of used/refurbished phones and tablet
 - days_used: Number of days the used/refurbished device has been used
 - normalized_new_price: Normalized price of a new device of the same model in euros
 - normalized_used_price: Normalized price of the used/refurbished device in euros
+
+### Files
+- for_visualization.py contains necessary functions for visualization
+- performance.py contains necessary functions to check performance of models
+- SLF_Project_LearnerNotebook_LowCode.ipynb is the notebook file where the work is being done
+- used_device_data.csv contains the dataset
